@@ -1,0 +1,16 @@
+.header-app .v-toolbar__content, .header-app .v-toolbar__extension {
+  /* padding: 0px !important; */
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+}
+
+.v-main {
+  background-color: #F4F7FA;
+}
+
+.v-navigation-drawer__border {
+  display: none;
+}
+
+.header-app .logo {
+  height: 100%;
+}
